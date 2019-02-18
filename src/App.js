@@ -70,7 +70,8 @@ const styles = theme => ({
     boxShadow: '2px 2px #EFEFEF',
     width: 'auto',
     padding: 10,
-    borderRadious: 4,
+    borderRadius: 4,
+    minWidth: 100,
   },
   priceText: {
     fontSize: 20,
